@@ -5,3 +5,9 @@ public class Hobby {
 		displayTraineeHobbyC();
 	}
 }
+
+public static void displayTraineeHobbyC() {
+	System.out.println("Trainee C’s Hobbies:");
+	System.out.println("SLEEP SLEEP SLEEP");
+
+}
