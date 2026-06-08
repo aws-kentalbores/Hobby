@@ -5,3 +5,8 @@ public class Hobby {
 		displayTraineeHobbyC();
 	}
 }
+
+public static void displayTraineeHobbyA() {
+	System.out.println("Trainee A’s Hobbies:");
+	// Hobbies of Trainee A will be added here
+}
